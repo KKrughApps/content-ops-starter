@@ -33,7 +33,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderWidth: 1
+          borderWidth: 0
     badge:
       label: Mobile Apps for Everyone
       color: text-primary
