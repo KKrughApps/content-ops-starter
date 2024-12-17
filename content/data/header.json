@@ -19,7 +19,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-7",
+                "pt-14",
                 "pb-7"
             ]
         }
