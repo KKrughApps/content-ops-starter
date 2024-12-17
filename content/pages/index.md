@@ -7,15 +7,19 @@ sections:
       text: Exercise Programs for Injury Prevention and Performance
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: The Knee App
+    text: |+
+      *   Targeted Exercises by Pain Location.
+
+      *   Two Phases of Targeted Knee Exercise Programs.
+
+      *   Highly Detailed 3D Animations.
+
     actions:
-      - label: Get started
+      - label: Support
         altText: ''
-        url: /
+        url: >-
+          mailto:support@motionapps.ussubject=The%20Knee%20App%20Support%20Question
         showIcon: false
         icon: arrowRight
         iconPosition: right
