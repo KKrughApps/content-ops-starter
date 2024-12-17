@@ -16,7 +16,7 @@ sections:
       *   Highly Detailed 3D Animations.
 
     actions:
-      - label: Get started
+      - label: Support
         altText: ''
         url: /
         showIcon: false
