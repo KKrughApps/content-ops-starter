@@ -31,6 +31,9 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 1
     badge:
       label: Mobile Apps for Everyone
       color: text-primary
