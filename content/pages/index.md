@@ -18,7 +18,8 @@ sections:
     actions:
       - label: Support
         altText: ''
-        url: /
+        url: >-
+          mailto:support@motionapps.ussubject=The%20Knee%20App%20Support%20Question
         showIcon: false
         icon: arrowRight
         iconPosition: right
