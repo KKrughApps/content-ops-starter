@@ -28,7 +28,7 @@ sections:
         type: Button
     media:
       url: /images/App_icon_knee_app_1.0.png
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
       styles:
